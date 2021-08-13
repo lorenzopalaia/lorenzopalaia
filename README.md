@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/-C-orange?style=for-the-badge&logo=c"/>
-  <img src="https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java"/>
   <img src="https://img.shields.io/badge/swift%20-%23007ACC.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/assembly-%23ED8B00.svg?&style=for-the-badge&logo=automatic&logoColor=white"/>
   <img src="https://img.shields.io/badge/git%20-%FCC624.svg?&style=for-the-badge&logo=git&logoColor=white"/>
