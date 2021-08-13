@@ -11,8 +11,8 @@
 </div>
 <h1 align="center">Tools</h1>
 <div align="center">
-  <img src="https://img.shields.io/static/v1?label=IDE&message=GoLand&color=blue&logo=intellij-idea&style=for-the-badge&logoColor=coral">
-  <img src="https://img.shields.io/static/v1?label=Distro&message=Artix&color=blue&logo=artix-linux&style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/static/v1?label=IDE&message=Eclipse&color=blue&logo=eclipse&style=for-the-badge&logoColor=coral">
+  <img src="https://img.shields.io/static/v1?label=Distro&message=Artix&color=blue&logo=artix-lstyle=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/static/v1?label=Shell&message=BASH&color=black&logo=powershell&style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/static/v1?label=Editor&message=VIM&color=cyan&logo=vim&style=for-the-badge&logoColor=green">
   <img src="https://img.shields.io/static/v1?&label=Software&message=Visual%20Studio&color=purple&logo=visual-studio&style=for-the-badge&logoColor=light%20blue">
