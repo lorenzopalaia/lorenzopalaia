@@ -1,6 +1,6 @@
 <h1 align="center">Skills</h1>
 <div align="center">
-  <img src="https://img.shields.io/badge/go%20-%23323330.svg?&style=for-the-badge&logo=go&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/c-sharp%20-%2343853D.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/swift%20-%23007ACC.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/assembly-%23ED8B00.svg?&style=for-the-badge&logo=automatic&logoColor=white"/>
