@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/static/v1?label=IDE&message=Eclipse&color=blue&logo=eclipse&style=for-the-badge&logoColor=coral">
   <img src="https://img.shields.io/static/v1?label=Distro&message=Arch&color=blue&logo=arch-linux&style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/static/v1?label=Shell&message=BASH&color=black&logo=powershell&style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/static/v1?label=Editor&message=VIM&color=cyan&logo=vim&style=for-the-badge&logoColor=green">
   <img src="https://img.shields.io/static/v1?&label=Software&message=Visual%20Studio&color=purple&logo=visual-studio&style=for-the-badge&logoColor=light%20blue">
   <img src="https://img.shields.io/static/v1?&label=Browser&message=Waterfox&color=blue&logo=firefox&style=for-the-badge&logoColor=yellow">
 </div>
