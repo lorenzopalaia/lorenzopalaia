@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/static/v1?label=IDE&message=Eclipse&color=blue&logo=eclipse&style=for-the-badge&logoColor=coral">
   <img src="https://img.shields.io/static/v1?label=Distro&message=Arch&color=blue&logo=arch-linux&style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/static/v1?label=Shell&message=BASH&color=black&logo=powershell&style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/static/v1?&label=Editor&message=VS%20Code&logo=visual-studio-code&style=for-the-badge&logoColor=light%20blue">
+  <img src="https://img.shields.io/static/v1?&label=Editor&message=VS%20Code&color=blue&logo=visual-studio-code&style=for-the-badge&logoColor=light%20blue">
   <img src="https://img.shields.io/static/v1?&label=Browser&message=Brave&color=blue&logo=brave&style=for-the-badge&logoColor=yellow">
 </div>
 
