@@ -9,6 +9,10 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
+
+---
+
+
 <h1 align="center">Tools</h1>
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=IDE&message=Eclipse&color=orange&logo=eclipse&style=for-the-badge&logoColor=white">
@@ -17,13 +21,3 @@
   <img src="https://img.shields.io/static/v1?&label=Editor&message=VS%20Code&color=blue&logo=visual-studio-code&style=for-the-badge&logoColor=light%20blue">
   <img src="https://img.shields.io/static/v1?&label=Browser&message=Brave&color=orange&logo=brave&style=for-the-badge&logoColor=white">
 </div>
-
----
-
-<h1 align="center">My STATS<h1>
-
-<a href="https://github.com/gyro7/gyro7">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyro7&hide_border=true&theme=radical"/></a>
-<a href="https://github.com/gyro7/gyro7">
-  <img align="center" src="https://github-readme-stats.gyro7.vercel.app/api?username=gyro7&hide_border=true&show_icons=true&count_private=true&langs_count=10&theme=radical"/>
-</a>
