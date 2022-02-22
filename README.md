@@ -21,5 +21,5 @@
   <img src="https://img.shields.io/static/v1?label=Distro&message=Arch&color=blue&logo=arch-linux&style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/static/v1?label=Shell&message=BASH&color=black&logo=powershell&style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/static/v1?&label=Editor&message=VS%20Code&color=blue&logo=visual-studio-code&style=for-the-badge&logoColor=light%20blue">
-  <img src="https://img.shields.io/static/v1?&label=Browser&message=F&color=orange&logo=firefox&style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/static/v1?&label=Browser&message=Firefox&color=orange&logo=firefox&style=for-the-badge&logoColor=white">
 </div>
