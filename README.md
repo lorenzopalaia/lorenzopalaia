@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
-<h3 align="center">Graduate student in Computer Engineering at Sapienza University of Rome</h3>
+<h3 align="center">Software Engineer | Computer and Automatic Engineering Grad</h3>
 
 - 🔭 I’m currently working on [Arduino Oscilloscope](https://github.com/lorenzopalaia/Arduino-Oscilloscope)
 
