@@ -22,3 +22,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lorenzopalaia&show_icons=true&locale=en&theme=radical" alt="lorenzopalaia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lorenzopalaia&theme=radical" alt="lorenzopalaia" /></p>
+
+[![](https://visitcount.itsvg.in/api?id=lorenzopalaia&label=Profile%20Views&color=1&icon=3&pretty=true)](https://visitcount.itsvg.in)
