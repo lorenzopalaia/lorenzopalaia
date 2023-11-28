@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lorenzo</h1>
+<h1 align="center">Hi 👋🏼, I'm Lorenzo</h1>
 <h3 align="center">Software Engineer | Computer and Automatic Engineering Grad</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 &nbsp;
