@@ -9,7 +9,7 @@ Hello fellow Earthlings! 🌍 I'm Lorenzo, your friendly neighborhood Software E
 ✉️ Email at lorenzopalaia53@gmail.com
 
 - 🌍  I'm based in Rome, Italy
-- 🖥️  See my portfolio at [lorenzopalaia.github.io/Personal-Portfolio](http://lorenzopalaia.github.io/Personal-Portfolio)
+- 🖥️  See my portfolio at [lorenzopalaia.it](http://lorenzopalaia.it)
 - ✉️  You can contact me at [lorenzopalaia53@gmail.com](mailto:lorenzopalaia53@gmail.com)
 <!--
 - 🚀  I'm currently working on [\-](http://-)
