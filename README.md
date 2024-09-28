@@ -1,4 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lorenzo Palaia
+# Hi ![](https://raw.githubusercontent.com/lorenzopalaia/lorenzopalaia/refs/heads/main/repo_assets/banner.gif)My name is Lorenzo Palaia
 
 ## Software Engineer | Computer and Automatic Engineering Grad
 
@@ -88,5 +88,7 @@ Hello fellow Earthlings! 🌍 I'm Lorenzo, your friendly neighborhood Software E
 
 </ul>
 -->
+
+[![wakatime](https://wakatime.com/badge/user/45617d26-b7ac-46e4-8029-d6055865331b.svg)](https://wakatime.com/@45617d26-b7ac-46e4-8029-d6055865331b)
 
 [![](https://visitcount.itsvg.in/api?id=lorenzopalaia&label=Profile%20Views&color=1&icon=3&pretty=true)](https://visitcount.itsvg.in)
