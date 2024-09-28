@@ -1,8 +1,8 @@
-# Hi ![](https://raw.githubusercontent.com/lorenzopalaia/lorenzopalaia/refs/heads/main/repo_assets/banner.gif)My name is Lorenzo Palaia
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lorenzo Palaia
 
 ## Software Engineer | Computer and Automatic Engineering Grad
 
-<img align="center" alt="Coding" width="1000" src="https://64.media.tumblr.com/1e59432e5fe2d7942df39fdd0223d294/9ec5a9ae5ba9f7db-ae/s1280x1920/8f45c6df3adc9f1a74b58a275b587982b5de8abc.gif">
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/lorenzopalaia/lorenzopalaia/refs/heads/main/repo_assets/banner.gif">
 
 Hello fellow Earthlings! 🌍 I'm Lorenzo, your friendly neighborhood Software Engineer. When I'm not coding, you can find me exploring the vast realms of programming, diving deep into the mysteries of artificial intelligence, and navigating the blockchain universe. I've got a knack for finance, and I love to embark on adventures around the globe. Let's create some magic with code!
 
