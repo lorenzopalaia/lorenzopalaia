@@ -1,4 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lorenzo Palaia
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FE418E&random=false&width=940&lines=Hey%2C+I'm+Lorenzo.+Welcome+to+my+Coding+world!" alt="Hey,I'm Lorenzo and Welcome to my coding world! animated typed out" width="90%" align="middle"/>
 
 ## Software Engineer | Computer and Automatic Engineering Grad
 
@@ -57,15 +57,28 @@ Hello fellow Earthlings! 🌍 I'm Lorenzo, your friendly neighborhood Software E
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/lorenzopalaia"><img src="https://github-readme-stats.vercel.app/api?username=lorenzopalaia&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lorenzopalaia's GitHub stats" /></a>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lorenzopalaia&custom_title=Lorenzo%27s%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="My Github Activity Graph" width="100%">
+</div>
 
-<a href="http://www.github.com/lorenzopalaia"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lorenzopalaia&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<br><h2></h2><br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lorenzopalaia&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
+  <br><h2></h2><br>
+  <img src="https://streak-stats.demolab.com?user=baf-03&theme=radical" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lorenzopalaia&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+</div>
+
+<br><h2></h2><br>
 
 <!--
 <a href="http://www.github.com/lorenzopalaia"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=lorenzopalaia&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 -->
 
+<!--
 <a href="https://github.com/lorenzopalaia" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzopalaia&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+-->
 
 <!--
 <b>Top Repositories</b>
