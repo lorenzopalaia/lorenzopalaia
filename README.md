@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FE418E&random=false&width=940&lines=Hey%2C+I'm+Lorenzo.+Welcome+to+my+Coding+world!" alt="Hey,I'm Lorenzo and Welcome to my coding world! animated typed out" width="90%" align="middle"/>
 
-## Software Engineer | Computer and Automation Engineering Grad
+## Software Engineer | Computer and Automation Engineering Graduate
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/lorenzopalaia/lorenzopalaia/refs/heads/main/repo_assets/banner.gif">
 
